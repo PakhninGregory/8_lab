@@ -1,0 +1,3 @@
+﻿  8_ЛР.cpp
+E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\8_ЛР\8_ЛР\8_ЛР.cpp(58,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  8_ЛР.vcxproj -> E:\Users\PressFtoPayRespeck\Desktop\дз мое\2021\8_ЛР\Debug\8_ЛР.exe
